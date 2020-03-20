@@ -35,7 +35,7 @@ const Messages = {
 
   FILE_NOT_FOUND: file => `File could not be found: ${file}`,
 
-  USER_NO_DMCHANNEL: 'No DM Channel exists!',
+USER_NO_DMCHANNEL: 'Could Not Find a DM Channel',
 
   VOICE_INVALID_HEARTBEAT: 'Tried to set voice heartbeat but no valid interval was specified.',
   VOICE_USER_MISSING: "Couldn't resolve the user to create stream.",
